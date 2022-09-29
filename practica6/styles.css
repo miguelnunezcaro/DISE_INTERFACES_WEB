@@ -1,0 +1,12 @@
+table, td{
+    border: 1px dashed red;
+    text-align: center;
+}
+img{
+    width: 90px;
+    height: 60px;
+}
+#tr1{
+    background-color: rgb(240, 240, 173);
+    font-weight: bold;
+}

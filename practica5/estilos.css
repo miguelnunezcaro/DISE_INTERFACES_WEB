@@ -1,0 +1,26 @@
+table, td{
+   border: 1px solid black;
+   border-spacing: 0;
+}
+.titulo{
+    text-align: center;
+    background-color: aquamarine;
+}
+#einem{
+    background-color: rgb(219, 195, 57);
+}
+#diw{
+    background-color: blueviolet;
+}
+.dwec{
+    background-color: aqua;
+}
+.dwes{
+    background-color: rgb(163, 28, 28);
+}
+#daw{
+    background-color: greenyellow;
+}
+.hlc{
+    background-color: rgb(253, 253, 165);
+}
